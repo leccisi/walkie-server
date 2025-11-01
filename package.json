@@ -9,5 +9,8 @@
   "dependencies": {
     "express": "^4.19.2",
     "ws": "^8.17.0"
+  },
+  "engines": {
+    "node": ">=18 <=22"
   }
 }
